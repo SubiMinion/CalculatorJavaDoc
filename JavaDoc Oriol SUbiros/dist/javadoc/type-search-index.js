@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"javadoc.oriol.subiros","l":"Calculator"},{"p":"javadoc.oriol.subiros","l":"JavaDocOriolSUbiros"}];updateSearchResults();
